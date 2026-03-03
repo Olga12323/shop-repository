@@ -4,7 +4,7 @@
 out/
 gen/
 
-### Maven ###
+### Maven ###mkdir -p .github/workflows
 target/
 pom.xml.tag
 pom.xml.releaseBackup
